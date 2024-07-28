@@ -15,3 +15,7 @@ Implemented a CNN for food image classification and calorie estimation. This pro
 
 5. K-means Clustering for Customer Segmentation
 Utilized K-means clustering to segment customers based on their annual income and spending score. The project involved preprocessing customer data, determining the optimal number of clusters using the Elbow method, and visualizing the customer segments. The clustering results revealed distinct customer groups, enabling more targeted marketing strategies and business insights.
+
+Please download the zip file if you would like to review the code & output in pdf format.
+
+Thank you!
